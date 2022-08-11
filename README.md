@@ -40,7 +40,7 @@
 * Bir kullanıcı (users) birden çok makaleyi (article) beğenebilir.
 * Aynı şekilde bir makalede (article) birden çok kullanıcı (users) tarafından beğenilebilir.
 
-## users / users_fallows
+## 8-) users / users_fallows
 * Şimdi gelelim takip işine.
 * Tabloda karmaşıklık olmasın diye çizmedim.
 * Aralarında Many To Many ilişkisi vardır.
