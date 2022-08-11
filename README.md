@@ -1,8 +1,10 @@
 # İLİŞKİLER ?
 
 <img src="https://github.com/rasitesdmr/OneToOne_OneToMany_ManyToMany/blob/master/images/iliskiler.png">
-
+```xml
 ## 1-) users / users_details
+```
+
 * Aralarında One To One ilişkisi vardır .
 * Bir kullanıcının (users) bir tane detayı (details) vardır.
 * Bir detay (details) ise sadece bir kullanıcıya (user) ait olabilir.
