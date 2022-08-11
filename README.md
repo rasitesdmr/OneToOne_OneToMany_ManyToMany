@@ -1,6 +1,6 @@
 # İLİŞKİLER ?
 
-<img src="">
+<img src="https://github.com/rasitesdmr/OneToOne_OneToMany_ManyToMany/blob/master/images/iliskiler.png">
 
 ## 1-) users / users_details
 * Aralarında One To One ilişkisi vardır .
